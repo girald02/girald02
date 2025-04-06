@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/girald02/girald02/refs/heads/main/github_banner_cropped.png)
+![Banner](https://raw.githubusercontent.com/girald02/girald02/refs/heads/main/bg.png)
 
 
 ### 👋 Hey there! I'm Girald Bacongan
