@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/girald02/girald02/refs/heads/main/Data%20Engineer%20-%20Crop.png)
-
 ![Banner](https://raw.githubusercontent.com/girald02/girald02/refs/heads/main/github_banner_cropped.png)
 
 
