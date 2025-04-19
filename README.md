@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/girald02/girald02/refs/heads/main/bg.png)
+![Banner](https://raw.githubusercontent.com/girald02/girald02/refs/heads/main/Girald_Data_Engineer.png)
 
 
 ### 👋 Hey there! I'm Girald Bacongan
@@ -8,7 +8,7 @@
 - 🛠️ Data Engineer focused on building scalable pipelines and automating workflows  
 - ☁️ Experienced with Azure, Pentaho, Power BI, and Power Automate  
 - 🧱 Skilled in both cloud and on-prem data architectures  
-- 📚 Certified in Azure Data Fundamentals (DP-900) | Pursuing DP-203  
+- 📚 Azure Data Fundamentals (DP-900) | Pursuing DP-700
 - 🌐 Solid background in Web Development & IT Support  
 - 🚀 Lifelong learner, driven by growth and innovation  
 
